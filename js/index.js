@@ -1,17 +1,17 @@
 let continuar;
-const XB = 1;
-let cantidadBR = XB++;
-const YB = 1;
-let cantidadBA = YB++;
-const ZB = 1;
-let cantidadBV = ZB++;
-const XP = 1;
-let cantidadJ = XP++;
-const YP = 1;
-let cantidadC = YP++;
-const ZP = 1; 
-let cantidadJo = ZP++
-const BUZ = true
+let xB = 1;
+let cantidadBR = xB++;
+let yB = 1;
+let cantidadBA = yB++;
+let zB = 1;
+let cantidadBV = zB++;
+let xP = 1;
+let cantidadJ = xP++;
+let yP = 1;
+let cantidadC = yP++;
+let zP = 1; 
+let cantidadJo = zP++
+const BUZ = true;
 const PANT = true;
 function promos(){
     do{
